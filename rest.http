@@ -1,0 +1,8 @@
+GET http://localhost:44357/api/Site HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluQG14cG9jLmNvbSIsIm5hbWVpZCI6IjEiLCJPcXRhbmUuSWRlbnRpdHkuU2l0ZUtleSI6IjE6MSIsInJvbGUiOlsiSG9zdCBVc2VycyIsIkFkbWluaXN0cmF0b3JzIiwiUmVnaXN0ZXJlZCBVc2VycyJdLCJBc3BOZXQuSWRlbnRpdHkuU2VjdXJpdHlTdGFtcCI6IlNLQkJIU0JFTlFMUFhaQURMUUpYVlhORlVZTzdWN1RGIiwibmJmIjoxNzM0MDA5NzY4LCJleHAiOjE3NjU1NDU3NjgsImlhdCI6MTczNDAwOTc2OCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo0NDM1NyIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6NTE3MyJ9.0EC8IqhDYSAxnshzUOA7BD2hfCrMzdFCu2eiRDXRMHs
+
+{
+    "username": "admin@mxpoc.com",
+    "password": "Admin@123456"
+}
